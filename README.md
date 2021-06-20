@@ -2,6 +2,8 @@
 
 Click on Star if you like :) 
 
+<img src="Penguin.png">
+
 ## License
 
     Copyright [2021] [Guruprem Rajpal]
