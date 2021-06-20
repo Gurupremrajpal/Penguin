@@ -2,7 +2,7 @@
 
 Click on Star if you like :) 
 
-<img src="Penguin.png">
+<img src="Penguin.gif">
 
 ## License
 
